@@ -1,5 +1,5 @@
 Postando de uma maneira melhor e aprimorada atualizando organização das pastas do repositorio!
-<<<<<<< HEAD
+
 ##
 Atualizações ultima semana(21-24/02/2022)
 
@@ -22,6 +22,5 @@ Aula010 : (else, if, else if e when){
 Aula011 : (Declaração de coleções){
 	Atividade 1 -> Campeonato brasileiro
 }
-=======
+
 Praticando e aplicando ingles nas atividades/exercicíos da aula
->>>>>>> f87b3717af642a2ace9e2d3899f351c72af019d9
