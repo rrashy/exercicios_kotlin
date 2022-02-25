@@ -1,2 +1,27 @@
 Postando de uma maneira melhor e aprimorada atualizando organização das pastas do repositorio!
+<<<<<<< HEAD
+##
+Atualizações ultima semana(21-24/02/2022)
+
+Aula009 : (Introdução if e else){
+	Atividade 1 -> Identificador de qual número é maior ou menor
+	Atividade 2 -> Identificador de qual número é positivo ou negativo
+	Atividade 3 -> Identificador de vogal e consoante
+	Atividade 4 -> Adivinhar um número de 0 à 10
+	Atividade 5 -> Pedra, papel e tesoura (Jokenpo)
+}
+
+Aula010 : (else, if, else if e when){
+	Atividade 1 -> Avaliação escolar 
+	Atividade 2 -> Indentificador de gênero para mensagem de boas-vindas 
+	Atividade 3 -> Identificador de turno para mensagem de acordo com turno 
+	Atividade 4 -> Calculadora 
+	Atividade 5 -> Desconto de venda
+}
+
+Aula011 : (Declaração de coleções){
+	Atividade 1 -> Campeonato brasileiro
+}
+=======
 Praticando e aplicando ingles nas atividades/exercicíos da aula
+>>>>>>> f87b3717af642a2ace9e2d3899f351c72af019d9
