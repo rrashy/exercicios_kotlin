@@ -8,15 +8,15 @@ fun main() {
     println("Enter a type combustible:\nA - Alcohol\nG - Gasoline")
     val combustible = readLine()!!
 
-    if (combustible.equals("A", true)) println("Você escolheu -> A <-.. abastecer alcool!")
+    if (combustible.equals("A", true)) println("You chose -> A <- supply alcohol!")
     else if (liters <= 20) {
-        return println("Total a pagar (3% desconto): " + liters * (priceA * (1 - (3 / 100))))
+        return println("Total payable (3% discount): " + liters * (priceA * (1 - (3 / 100))))
     } else if (liters >= 20) {
-        return println("Total a pagar (5% desconto): " + liters * (priceA * (1 - (5 / 100))))
+        return println("Total payable (5% discount): " + liters * (priceA * (1 - (5 / 100))))
     }
-    if (combustible.equals("G", true)) println("Você escolheu -> G <-.. abastecer gasolina!")
+    if (combustible.equals("G", true)) println("You chose -> G <- supply gasoline!")
     else if (liters <= 20) {
-        return println("Total a pagar (4% desconto): " + liters * (priceG * (1 - (4 / 100))))
+        return println("Total payable (4% discount): " + liters * (priceG * (1 - (4 / 100))))
     } else if (liters >= 20)
-        return println("Total a pagar (6% desconto): " + liters * (priceG * (1 - (6 / 100))))
+        return println("Total payable (6% discount): " + liters * (priceG * (1 - (6 / 100))))
 }
